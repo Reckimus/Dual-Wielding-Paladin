@@ -6,6 +6,8 @@ https://github.com/BepInEx/BepInEx/releases
 
 Unzip it into your Erenshor game folder so that you see BepInEx and doorstop_config.ini alongside the game’s .exe
 
+Drop the DualWieldingPaladin.dll into the BepinEx/Plugins folder
+
 How to Use
 
 Dual Wield Skill Unlock
